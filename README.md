@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DandelionQZ&theme=react&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandelionQZ&layout=compact&theme=react"/>
-<!--   <a href="https://solved.ac/delion">
+  <a href="https://solved.ac/delion">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=delion" />
   </a>
-  <a href="https://velog.io/@queenz/posts">
+<!--<a href="https://velog.io/@queenz/posts">
     <img src="https://velog-github-badge.vercel.app/badge/queenz?thema=react&posts=3" />
-  </a> -->
+  </a>-->
 
   <h4>SKILL</h4>
   <div>
