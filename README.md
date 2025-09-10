@@ -25,6 +25,9 @@
         <div>
           <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white">
         </div>
+        <div>
+          <img src="https://img.shields.io/badge/java-1C818C.svg?style=flat&logo=java&logoColor=white">
+        </div>
       </td>
       <!--프레임워크-->
       <td>
